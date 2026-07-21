@@ -37,8 +37,6 @@
         "discord": "https://discord.com/invite/vanillax"
     },
     "compliance": {
-        "privacyPolicy": "https://checkout.tebex.io/privacy",
-        "termsOfService": "https://checkout.tebex.io/terms",
         "rules": "https://rules.vanillax.net"
     }
 }
